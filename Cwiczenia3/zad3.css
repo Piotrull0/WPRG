@@ -1,0 +1,14 @@
+.main {
+    border: solid 2px red;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 22px;
+}
+p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}

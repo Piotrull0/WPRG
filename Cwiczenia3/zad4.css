@@ -1,0 +1,11 @@
+.main {
+    background-color: lightgrey;
+    font-family: Arial;
+    font-weight: bold;
+}
+.main > .side {
+    color: red;
+}
+.side > .child {
+    font-size: 14px;
+}
