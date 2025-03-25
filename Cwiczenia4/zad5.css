@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+}
+img {
+    float: left;
+    margin-right: 10px;
+    width: 40px;
+    length: 80px;
+}
+.text {
+    overflow: hidden;
+}
+.wrapper {
+    text-align: center;
+}
+.el {
+    text-align: left;
+    margin: 0 10px;
+}
+li {
+    display: inline-block;
+    margin-left: 10px;
+}
