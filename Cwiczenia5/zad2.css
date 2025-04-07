@@ -1,0 +1,20 @@
+.header {
+    font-family: Arial;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    padding: 1%;
+    align-items: center;
+}
+.nav {
+    display: flex;
+}
+.nav-list {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+li {
+    margin: 10px;
+}

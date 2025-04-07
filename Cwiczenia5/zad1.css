@@ -1,0 +1,30 @@
+.flex-container {
+    font-family: Arial;
+    display: flex;
+    border: solid 2px black;
+    justify-content: space-between;
+}
+.column {
+    width: auto;
+    text-align: center;
+    background-color: lightblue;
+    flex: 1;
+    margin: 20px;
+    padding: 10px;
+    height: 200px;
+}
+.flex-container2 {
+    font-family: Arial;
+    display: flex;
+    border: solid 2px black;
+    padding: 80px;
+    align-items: center;
+    justify-content: center;
+}
+.box {
+    background-color: lightblue;
+    text-align: center;
+    width: 15%;
+    margin: 10px;
+    padding: 20px;
+}
